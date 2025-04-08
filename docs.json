@@ -36,164 +36,54 @@
         {
           "group": "Product Development Lifecycle",
           "pages": [
-            {
-              "group": "From Idea to Delivery",
-              "pages": [
-                "product-development-lifecycle/intake-discovery",
-                "product-development-lifecycle/requirements-documentation",
-                "product-development-lifecycle/design-prototyping",
-                "product-development-lifecycle/development-qa",
-                "product-development-lifecycle/uat-release"
-              ]
-            },
-            {
-              "group": "Launch Process & Go-to-Market",
-              "pages": [
-                "product-development-lifecycle/launch-process-go-to-market"
-              ]
-            },
-            {
-              "group": "Feedback Loops",
-              "pages": [
-                "product-development-lifecycle/feedback-loops"
-              ]
-            },
-            {
-              "group": "How We Handle Bugs & Incidents",
-              "pages": [
-                "product-development-lifecycle/bugs-incidents"
-              ]
-            }
+            "product-development-lifecycle/intake-discovery",
+            "product-development-lifecycle/requirements-documentation",
+            "product-development-lifecycle/design-prototyping",
+            "product-development-lifecycle/development-qa",
+            "product-development-lifecycle/uat-release",
+            "product-development-lifecycle/launch-process-go-to-market",
+            "product-development-lifecycle/feedback-loops",
+            "product-development-lifecycle/bugs-incidents"
           ]
         },
         {
           "group": "Product Portfolio",
           "pages": [
-            {
-              "group": "Live Products & Services",
-              "pages": [
-                "product-portfolio/live-products-services"
-              ]
-            },
-            {
-              "group": "Roadmap",
-              "pages": [
-                "product-portfolio/roadmap"
-              ]
-            },
-            {
-              "group": "Recently Shipped",
-              "pages": [
-                "product-portfolio/recently-shipped"
-              ]
-            },
-            {
-              "group": "Experiments & Pilots",
-              "pages": [
-                "product-portfolio/experiments-pilots"
-              ]
-            },
-            {
-              "group": "Sunset & Deprecated Features",
-              "pages": [
-                "product-portfolio/sunset-deprecated-features"
-              ]
-            }
+            "product-portfolio/live-products-services",
+            "product-portfolio/roadmap",
+            "product-portfolio/recently-shipped",
+            "product-portfolio/experiments-pilots",
+            "product-portfolio/sunset-deprecated-features"
           ]
         },
         {
           "group": "User Documentation",
           "pages": [
-            {
-              "group": "Internal User Guides",
-              "pages": [
-                "user-documentation/internal-user-guides/customer-facing-teams",
-                "user-documentation/internal-user-guides/datacenter-operations",
-                "user-documentation/internal-user-guides/clients"
-              ]
-            },
-            {
-              "group": "Admin Tools",
-              "pages": [
-                "user-documentation/admin-tools"
-              ]
-            },
-            {
-              "group": "System Integrations",
-              "pages": [
-                "user-documentation/system-integrations"
-              ]
-            },
-            {
-              "group": "Configuration & Customization Options",
-              "pages": [
-                "user-documentation/configuration-customization-options"
-              ]
-            },
-            {
-              "group": "Known Limitations",
-              "pages": [
-                "user-documentation/known-limitations"
-              ]
-            }
+            "user-documentation/internal-user-guides/customer-facing-teams",
+            "user-documentation/internal-user-guides/datacenter-operations",
+            "user-documentation/internal-user-guides/clients",
+            "user-documentation/admin-tools",
+            "user-documentation/system-integrations",
+            "user-documentation/configuration-customization-options",
+            "user-documentation/known-limitations"
           ]
         },
         {
           "group": "Analytics & Metrics",
           "pages": [
-            {
-              "group": "KPIs by Product",
-              "pages": [
-                "analytics-metrics/kpis-by-product"
-              ]
-            },
-            {
-              "group": "Reporting Tools",
-              "pages": [
-                "analytics-metrics/reporting-tools"
-              ]
-            },
-            {
-              "group": "Feature Adoption",
-              "pages": [
-                "analytics-metrics/feature-adoption"
-              ]
-            },
-            {
-              "group": "User Feedback & NPS",
-              "pages": [
-                "analytics-metrics/user-feedback-nps"
-              ]
-            }
+            "analytics-metrics/kpis-by-product",
+            "analytics-metrics/reporting-tools",
+            "analytics-metrics/feature-adoption",
+            "analytics-metrics/user-feedback-nps"
           ]
         },
         {
           "group": "Product Ops",
           "pages": [
-            {
-              "group": "Process Improvement",
-              "pages": [
-                "product-ops/process-improvement"
-              ]
-            },
-            {
-              "group": "Enablement Materials",
-              "pages": [
-                "product-ops/enablement-materials"
-              ]
-            },
-            {
-              "group": "Training & Onboarding Guides",
-              "pages": [
-                "product-ops/training-onboarding-guides"
-              ]
-            },
-            {
-              "group": "Templates & Standards",
-              "pages": [
-                "product-ops/templates-standard"
-              ]
-            }
+            "product-ops/process-improvement",
+            "product-ops/enablement-materials",
+            "product-ops/training-onboarding-guides",
+            "product-ops/templates-standard"
           ]
         }
       ]
