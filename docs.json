@@ -120,6 +120,35 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "DBOSS",
+        "pages": [
+          {
+            "group": "Support & Operations",
+            "pages": [
+              "dboss/support-operations/overview"
+            ]
+          },
+          {
+            "group": "Service Delivery",
+            "pages": [
+              "dboss/service-delivery/overview"
+            ]
+          },
+          {
+            "group": "Finance & Billing",
+            "pages": [
+              "dboss/finance-billing/overview"
+            ]
+          },
+          {
+            "group": "Managed Services",
+            "pages": [
+              "dboss/managed-services/overview"
+            ]
+          }
+        ]
       }
     ]
   }
