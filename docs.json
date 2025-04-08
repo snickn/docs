@@ -9,191 +9,196 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-  "Product Organization": [
-    {
-      "group": "How we operate",
-      "pages": [
-        "product-organization/principles-philosophy",
-        "product-organization/roles-responsibilities",
-        "product-organization/how-to-work-with-product",
-        "product-organization/how-scrum-works-at-databank",
-        "product-organization/how-we-operate-discovery-delivery"
-      ]
-    },
-    {
-      "group": "Product Operating Model",
-      "pages": [
-        "product-operating-model/quarterly-planning-process",
-        "product-operating-model/backlog-roadmap-management",
-        "product-operating-model/cross-functional-team-setup",
-        "product-operating-model/meetings-cadences",
-        "product-operating-model/definition-of-done",
-        "product-operating-model/how-we-use-tools"
-      ]
-    },
-    {
-      "group": "Product Development Lifecycle",
-      "pages": [
-        {
-          "group": "From Idea to Delivery",
-          "pages": [
-            "product-development-lifecycle/intake-discovery",
-            "product-development-lifecycle/requirements-documentation",
-            "product-development-lifecycle/design-prototyping",
-            "product-development-lifecycle/development-qa",
-            "product-development-lifecycle/uat-release"
-          ]
-        },
-        {
-          "group": "Launch Process & Go-to-Market",
-          "pages": [
-            "product-development-lifecycle/launch-process-go-to-market"
-          ]
-        },
-        {
-          "group": "Feedback Loops",
-          "pages": [
-            "product-development-lifecycle/feedback-loops"
-          ]
-        },
-        {
-          "group": "How We Handle Bugs & Incidents",
-          "pages": [
-            "product-development-lifecycle/bugs-incidents"
-          ]
-        }
-      ]
-    },
-    {
-      "group": "Product Portfolio",
-      "pages": [
-        {
-          "group": "Live Products & Services",
-          "pages": [
-            "product-portfolio/live-products-services"
-          ]
-        },
-        {
-          "group": "Roadmap",
-          "pages": [
-            "product-portfolio/roadmap"
-          ]
-        },
-        {
-          "group": "Recently Shipped",
-          "pages": [
-            "product-portfolio/recently-shipped"
-          ]
-        },
-        {
-          "group": "Experiments & Pilots",
-          "pages": [
-            "product-portfolio/experiments-pilots"
-          ]
-        },
-        {
-          "group": "Sunset & Deprecated Features",
-          "pages": [
-            "product-portfolio/sunset-deprecated-features"
-          ]
-        }
-      ]
-    },
-    {
-      "group": "User Documentation",
-      "pages": [
-        {
-          "group": "Internal User Guides",
-          "pages": [
-            "user-documentation/internal-user-guides/customer-facing-teams",
-            "user-documentation/internal-user-guides/datacenter-operations",
-            "user-documentation/internal-user-guides/clients"
-          ]
-        },
-        {
-          "group": "Admin Tools",
-          "pages": [
-            "user-documentation/admin-tools"
-          ]
-        },
-        {
-          "group": "System Integrations",
-          "pages": [
-            "user-documentation/system-integrations"
-          ]
-        },
-        {
-          "group": "Configuration & Customization Options",
-          "pages": [
-            "user-documentation/configuration-customization-options"
-          ]
-        },
-        {
-          "group": "Known Limitations",
-          "pages": [
-            "user-documentation/known-limitations"
-          ]
-        }
-      ]
-    },
-    {
-      "group": "Analytics & Metrics",
-      "pages": [
-        {
-          "group": "KPIs by Product",
-          "pages": [
-            "analytics-metrics/kpis-by-product"
-          ]
-        },
-        {
-          "group": "Reporting Tools",
-          "pages": [
-            "analytics-metrics/reporting-tools"
-          ]
-        },
-        {
-          "group": "Feature Adoption",
-          "pages": [
-            "analytics-metrics/feature-adoption"
-          ]
-        },
-        {
-          "group": "User Feedback & NPS",
-          "pages": [
-            "analytics-metrics/user-feedback-nps"
-          ]
-        }
-      ]
-    },
-    {
-      "group": "Product Ops",
-      "pages": [
-        {
-          "group": "Process Improvement",
-          "pages": [
-            "product-ops/process-improvement"
-          ]
-        },
-        {
-          "group": "Enablement Materials",
-          "pages": [
-            "product-ops/enablement-materials"
-          ]
-        },
-        {
-          "group": "Training & Onboarding Guides",
-          "pages": [
-            "product-ops/training-onboarding-guides"
-          ]
-        },
-        {
-          "group": "Templates & Standards",
-          "pages": [
-            "product-ops/templates-standard"
-          ]
-        }
-      ]
-    }
-  ]
-}
+    "tabs": [
+      {
+        "tab": "Product Organization",
+        "groups": [
+          {
+            "group": "How we operate",
+            "pages": [
+              "product-organization/principles-philosophy",
+              "product-organization/roles-responsibilities",
+              "product-organization/how-to-work-with-product",
+              "product-organization/how-scrum-works-at-databank",
+              "product-organization/how-we-operate-discovery-delivery"
+            ]
+          },
+          {
+            "group": "Product Operating Model",
+            "pages": [
+              "product-operating-model/quarterly-planning-process",
+              "product-operating-model/backlog-roadmap-management",
+              "product-operating-model/cross-functional-team-setup",
+              "product-operating-model/meetings-cadences",
+              "product-operating-model/definition-of-done",
+              "product-operating-model/how-we-use-tools"
+            ]
+          },
+          {
+            "group": "Product Development Lifecycle",
+            "pages": [
+              {
+                "group": "From Idea to Delivery",
+                "pages": [
+                  "product-development-lifecycle/intake-discovery",
+                  "product-development-lifecycle/requirements-documentation",
+                  "product-development-lifecycle/design-prototyping",
+                  "product-development-lifecycle/development-qa",
+                  "product-development-lifecycle/uat-release"
+                ]
+              },
+              {
+                "group": "Launch Process & Go-to-Market",
+                "pages": [
+                  "product-development-lifecycle/launch-process-go-to-market"
+                ]
+              },
+              {
+                "group": "Feedback Loops",
+                "pages": [
+                  "product-development-lifecycle/feedback-loops"
+                ]
+              },
+              {
+                "group": "How We Handle Bugs & Incidents",
+                "pages": [
+                  "product-development-lifecycle/bugs-incidents"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Product Portfolio",
+            "pages": [
+              {
+                "group": "Live Products & Services",
+                "pages": [
+                  "product-portfolio/live-products-services"
+                ]
+              },
+              {
+                "group": "Roadmap",
+                "pages": [
+                  "product-portfolio/roadmap"
+                ]
+              },
+              {
+                "group": "Recently Shipped",
+                "pages": [
+                  "product-portfolio/recently-shipped"
+                ]
+              },
+              {
+                "group": "Experiments & Pilots",
+                "pages": [
+                  "product-portfolio/experiments-pilots"
+                ]
+              },
+              {
+                "group": "Sunset & Deprecated Features",
+                "pages": [
+                  "product-portfolio/sunset-deprecated-features"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "User Documentation",
+            "pages": [
+              {
+                "group": "Internal User Guides",
+                "pages": [
+                  "user-documentation/internal-user-guides/customer-facing-teams",
+                  "user-documentation/internal-user-guides/datacenter-operations",
+                  "user-documentation/internal-user-guides/clients"
+                ]
+              },
+              {
+                "group": "Admin Tools",
+                "pages": [
+                  "user-documentation/admin-tools"
+                ]
+              },
+              {
+                "group": "System Integrations",
+                "pages": [
+                  "user-documentation/system-integrations"
+                ]
+              },
+              {
+                "group": "Configuration & Customization Options",
+                "pages": [
+                  "user-documentation/configuration-customization-options"
+                ]
+              },
+              {
+                "group": "Known Limitations",
+                "pages": [
+                  "user-documentation/known-limitations"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Analytics & Metrics",
+            "pages": [
+              {
+                "group": "KPIs by Product",
+                "pages": [
+                  "analytics-metrics/kpis-by-product"
+                ]
+              },
+              {
+                "group": "Reporting Tools",
+                "pages": [
+                  "analytics-metrics/reporting-tools"
+                ]
+              },
+              {
+                "group": "Feature Adoption",
+                "pages": [
+                  "analytics-metrics/feature-adoption"
+                ]
+              },
+              {
+                "group": "User Feedback & NPS",
+                "pages": [
+                  "analytics-metrics/user-feedback-nps"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Product Ops",
+            "pages": [
+              {
+                "group": "Process Improvement",
+                "pages": [
+                  "product-ops/process-improvement"
+                ]
+              },
+              {
+                "group": "Enablement Materials",
+                "pages": [
+                  "product-ops/enablement-materials"
+                ]
+              },
+              {
+                "group": "Training & Onboarding Guides",
+                "pages": [
+                  "product-ops/training-onboarding-guides"
+                ]
+              },
+              {
+                "group": "Templates & Standards",
+                "pages": [
+                  "product-ops/templates-standard"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }
