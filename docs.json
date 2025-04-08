@@ -256,11 +256,11 @@
           {
             "group": "Templates & Standards",
             "pages": [
-              "product-ops/templates-standard",
-  ]
+              "product-ops/templates-standard"
+            ]
           }
         ]
       }
     ]
   }
-}           
+}    
