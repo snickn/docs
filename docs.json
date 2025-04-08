@@ -22,7 +22,9 @@
               "product-organization/how-scrum-works-at-databank",
               "product-organization/how-we-operate-discovery-delivery"
             ]
-          },
+          }
+        ]
+      },
       {
         "tab": "Release Notes",
         "pages": [
