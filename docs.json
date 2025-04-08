@@ -8,117 +8,119 @@
     "dark": "#15803D"
   },
   "favicon": "/favicon.svg",
-  "navigation": [
-    {
-      "tab": "Product Organization",
-      "pages": [
-        {
-          "group": "How we operate",
-          "pages": [
-            "product-organization/principles-philosophy",
-            "product-organization/roles-responsibilities",
-            "product-organization/how-to-work-with-product",
-            "product-organization/how-scrum-works-at-databank",
-            "product-organization/how-we-operate-discovery-delivery"
-          ]
-        },
-        {
-          "group": "Product Operating Model",
-          "pages": [
-            "product-operating-model/quarterly-planning-process",
-            "product-operating-model/backlog-roadmap-management",
-            "product-operating-model/cross-functional-team-setup",
-            "product-operating-model/meetings-cadences",
-            "product-operating-model/definition-of-done",
-            "product-operating-model/how-we-use-tools"
-          ]
-        },
-        {
-          "group": "Product Development Lifecycle",
-          "pages": [
-            "product-development-lifecycle/intake-discovery",
-            "product-development-lifecycle/requirements-documentation",
-            "product-development-lifecycle/design-prototyping",
-            "product-development-lifecycle/development-qa",
-            "product-development-lifecycle/uat-release",
-            "product-development-lifecycle/launch-process-go-to-market",
-            "product-development-lifecycle/feedback-loops",
-            "product-development-lifecycle/bugs-incidents"
-          ]
-        },
-        {
-          "group": "Product Portfolio",
-          "pages": [
-            "product-portfolio/live-products-services",
-            "product-portfolio/roadmap",
-            "product-portfolio/recently-shipped",
-            "product-portfolio/experiments-pilots",
-            "product-portfolio/sunset-deprecated-features"
-          ]
-        },
-        {
-          "group": "User Documentation",
-          "pages": [
-            "user-documentation/internal-user-guides/customer-facing-teams",
-            "user-documentation/internal-user-guides/datacenter-operations",
-            "user-documentation/internal-user-guides/clients",
-            "user-documentation/admin-tools",
-            "user-documentation/system-integrations",
-            "user-documentation/configuration-customization-options",
-            "user-documentation/known-limitations"
-          ]
-        },
-        {
-          "group": "Analytics & Metrics",
-          "pages": [
-            "analytics-metrics/kpis-by-product",
-            "analytics-metrics/reporting-tools",
-            "analytics-metrics/feature-adoption",
-            "analytics-metrics/user-feedback-nps"
-          ]
-        },
-        {
-          "group": "Product Ops",
-          "pages": [
-            "product-ops/process-improvement",
-            "product-ops/enablement-materials",
-            "product-ops/training-onboarding-guides",
-            "product-ops/templates-standard"
-          ]
-        }
-      ]
-    },
-    {
-      "tab": "Release Notes",
-      "pages": [
-        {
-          "group": "Overview",
-          "pages": [
-            "release-notes/index"
-          ]
-        },
-        {
-          "group": "Customer Portal",
-          "pages": [
-            "release-notes/customer-portal/2025-q1",
-            "release-notes/customer-portal/2025-q2"
-          ]
-        },
-        {
-          "group": "Epicor",
-          "pages": [
-            "release-notes/epicor/2025-q1",
-            "release-notes/epicor/2025-q2"
-          ]
-        },
-        {
-          "group": "DBOSS",
-          "pages": [
-            "release-notes/dboss/2025-q1",
-            "release-notes/dboss/2025-q2"
-          ]
-        }
-      ]
-    }
-  ]
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Product Organization",
+        "pages": [
+          {
+            "group": "How we operate",
+            "pages": [
+              "product-organization/principles-philosophy",
+              "product-organization/roles-responsibilities",
+              "product-organization/how-to-work-with-product",
+              "product-organization/how-scrum-works-at-databank",
+              "product-organization/how-we-operate-discovery-delivery"
+            ]
+          },
+          {
+            "group": "Product Operating Model",
+            "pages": [
+              "product-operating-model/quarterly-planning-process",
+              "product-operating-model/backlog-roadmap-management",
+              "product-operating-model/cross-functional-team-setup",
+              "product-operating-model/meetings-cadences",
+              "product-operating-model/definition-of-done",
+              "product-operating-model/how-we-use-tools"
+            ]
+          },
+          {
+            "group": "Product Development Lifecycle",
+            "pages": [
+              "product-development-lifecycle/intake-discovery",
+              "product-development-lifecycle/requirements-documentation",
+              "product-development-lifecycle/design-prototyping",
+              "product-development-lifecycle/development-qa",
+              "product-development-lifecycle/uat-release",
+              "product-development-lifecycle/launch-process-go-to-market",
+              "product-development-lifecycle/feedback-loops",
+              "product-development-lifecycle/bugs-incidents"
+            ]
+          },
+          {
+            "group": "Product Portfolio",
+            "pages": [
+              "product-portfolio/live-products-services",
+              "product-portfolio/roadmap",
+              "product-portfolio/recently-shipped",
+              "product-portfolio/experiments-pilots",
+              "product-portfolio/sunset-deprecated-features"
+            ]
+          },
+          {
+            "group": "User Documentation",
+            "pages": [
+              "user-documentation/internal-user-guides/customer-facing-teams",
+              "user-documentation/internal-user-guides/datacenter-operations",
+              "user-documentation/internal-user-guides/clients",
+              "user-documentation/admin-tools",
+              "user-documentation/system-integrations",
+              "user-documentation/configuration-customization-options",
+              "user-documentation/known-limitations"
+            ]
+          },
+          {
+            "group": "Analytics & Metrics",
+            "pages": [
+              "analytics-metrics/kpis-by-product",
+              "analytics-metrics/reporting-tools",
+              "analytics-metrics/feature-adoption",
+              "analytics-metrics/user-feedback-nps"
+            ]
+          },
+          {
+            "group": "Product Ops",
+            "pages": [
+              "product-ops/process-improvement",
+              "product-ops/enablement-materials",
+              "product-ops/training-onboarding-guides",
+              "product-ops/templates-standard"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Release Notes",
+        "pages": [
+          {
+            "group": "Overview",
+            "pages": [
+              "release-notes/index"
+            ]
+          },
+          {
+            "group": "Customer Portal",
+            "pages": [
+              "release-notes/customer-portal/2025-q1",
+              "release-notes/customer-portal/2025-q2"
+            ]
+          },
+          {
+            "group": "Epicor",
+            "pages": [
+              "release-notes/epicor/2025-q1",
+              "release-notes/epicor/2025-q2"
+            ]
+          },
+          {
+            "group": "DBOSS",
+            "pages": [
+              "release-notes/dboss/2025-q1",
+              "release-notes/dboss/2025-q2"
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }
