@@ -256,7 +256,11 @@
           {
             "group": "Templates & Standards",
             "pages": [
-              "product-ops/templates-standards"
-            ]
+              "product-ops/templates-standard",
+  ]
           }
-          }
+        ]
+      }
+    ]
+  }
+}           
