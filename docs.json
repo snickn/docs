@@ -20,6 +20,18 @@
               "product-organization/roles-responsibilities",
               "product-organization/how-to-work-with-product"
             ]
+          },
+          {
+            "group": "Product Operating Model",
+            "pages": [
+              "product-operating-model/quarterly-planning-process",
+              "product-operating-model/backlog-roadmap-management",
+              "product-operating-model/cross-functional-team-setup",
+              "product-operating-model/meetings-cadences",
+              "product-operating-model/definition-of-done",
+              "product-operating-model/how-we-use-tools"
+              
+            ]
           }
         ]
       },
