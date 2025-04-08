@@ -18,14 +18,8 @@
             "pages": [
               "product-organization/roles-responsibilities",
               "product-organization/how-to-work-with-product"
-              ]
-          },
-          {
-            "group": "Career Paths",
-            "pages": [
-              "product-organization/career-paths"
             ]
-          },
+          }
         ]
       },
       {
@@ -240,4 +234,4 @@
       }
     ]
   }
-}    
+}
