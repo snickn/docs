@@ -1,24 +1,41 @@
 {
-  "name": "Databank Product Docs",
-  "logo": "/logo.png",
+  "$schema": "https://mintlify.com/docs.schema.json",
+  "name": "DataBank DevDocs",
+  "favicon": "/favicon.svg",
+  "theme": "palm",
+  "colors": {
+    "primary": "#d17347",
+    "light": "#07C983",
+    "dark": "#15803D"
+  },
   "navigation": [
     {
-      "title": "Team",
-      "items": [
-        "team/roles",
-        "team/ways-of-working",
-        "team/product-development-lifecycle"
+      "name": "Team",
+      "sections": [
+        {
+          "name": "Roles & Operations",
+          "pages": [
+            "team/roles",
+            "team/ways-of-working",
+            "team/product-development-lifecycle"
+          ]
+        }
       ]
     },
     {
-      "title": "Product",
-      "items": [
-        "product/roadmap-process",
-        "product/initiative-template",
-        "product/decision-log",
+      "name": "Product",
+      "sections": [
         {
-          "title": "Applications",
-          "items": [
+          "name": "Planning & Process",
+          "pages": [
+            "product/roadmap-process",
+            "product/initiative-template",
+            "product/decision-log"
+          ]
+        },
+        {
+          "name": "Applications",
+          "pages": [
             "product/apps/visitor-check-in",
             "product/apps/alerting-system"
           ]
@@ -26,22 +43,22 @@
       ]
     },
     {
-      "title": "Engineering",
-      "items": [
+      "name": "Engineering",
+      "pages": [
         "engineering/architecture",
         "engineering/dev-practices"
       ]
     },
     {
-      "title": "Metrics",
-      "items": [
+      "name": "Metrics",
+      "pages": [
         "metrics/reporting",
         "metrics/relevant-stakeholder-work"
       ]
     },
     {
-      "title": "Contributing",
-      "items": [
+      "name": "Contributing",
+      "pages": [
         "contributing/how-to-contribute",
         "contributing/requesting-features"
       ]
