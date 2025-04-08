@@ -16,7 +16,8 @@
           {
             "group": "Overview",
             "pages": [
-              "product-organization/roles-responsibilities"
+              "product-organization/roles-responsibilities",
+              "product-organization/how-to-work-with-product"
               ]
           },
           {
@@ -25,12 +26,6 @@
               "product-organization/career-paths"
             ]
           },
-          {
-            "group": "How to Work With Product",
-            "pages": [
-              "product-organization/how-to-work-with-product"
-            ]
-          }
         ]
       },
       {
