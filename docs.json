@@ -29,12 +29,6 @@
         "tab": "Release Notes",
         "pages": [
           {
-            "group": "Overview",
-            "pages": [
-              "release-notes/index"
-            ]
-          },
-          {
             "group": "Customer Portal",
             "pages": [
               "release-notes/customer-portal/april22025"
