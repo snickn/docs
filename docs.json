@@ -10,7 +10,7 @@
   "favicon": "/favicon.svg",
   "navigation": [
     {
-      "group": "Product Organization",
+      "tab": "Product Organization",
       "pages": [
         {
           "group": "How we operate",
@@ -46,19 +46,59 @@
                 "product-development-lifecycle/uat-release"
               ]
             },
-            "product-development-lifecycle/launch-process-go-to-market",
-            "product-development-lifecycle/feedback-loops",
-            "product-development-lifecycle/bugs-incidents"
+            {
+              "group": "Launch Process & Go-to-Market",
+              "pages": [
+                "product-development-lifecycle/launch-process-go-to-market"
+              ]
+            },
+            {
+              "group": "Feedback Loops",
+              "pages": [
+                "product-development-lifecycle/feedback-loops"
+              ]
+            },
+            {
+              "group": "How We Handle Bugs & Incidents",
+              "pages": [
+                "product-development-lifecycle/bugs-incidents"
+              ]
+            }
           ]
         },
         {
           "group": "Product Portfolio",
           "pages": [
-            "product-portfolio/live-products-services",
-            "product-portfolio/roadmap",
-            "product-portfolio/recently-shipped",
-            "product-portfolio/experiments-pilots",
-            "product-portfolio/sunset-deprecated-features"
+            {
+              "group": "Live Products & Services",
+              "pages": [
+                "product-portfolio/live-products-services"
+              ]
+            },
+            {
+              "group": "Roadmap",
+              "pages": [
+                "product-portfolio/roadmap"
+              ]
+            },
+            {
+              "group": "Recently Shipped",
+              "pages": [
+                "product-portfolio/recently-shipped"
+              ]
+            },
+            {
+              "group": "Experiments & Pilots",
+              "pages": [
+                "product-portfolio/experiments-pilots"
+              ]
+            },
+            {
+              "group": "Sunset & Deprecated Features",
+              "pages": [
+                "product-portfolio/sunset-deprecated-features"
+              ]
+            }
           ]
         },
         {
@@ -72,28 +112,88 @@
                 "user-documentation/internal-user-guides/clients"
               ]
             },
-            "user-documentation/admin-tools",
-            "user-documentation/system-integrations",
-            "user-documentation/configuration-customization-options",
-            "user-documentation/known-limitations"
+            {
+              "group": "Admin Tools",
+              "pages": [
+                "user-documentation/admin-tools"
+              ]
+            },
+            {
+              "group": "System Integrations",
+              "pages": [
+                "user-documentation/system-integrations"
+              ]
+            },
+            {
+              "group": "Configuration & Customization Options",
+              "pages": [
+                "user-documentation/configuration-customization-options"
+              ]
+            },
+            {
+              "group": "Known Limitations",
+              "pages": [
+                "user-documentation/known-limitations"
+              ]
+            }
           ]
         },
         {
           "group": "Analytics & Metrics",
           "pages": [
-            "analytics-metrics/kpis-by-product",
-            "analytics-metrics/reporting-tools",
-            "analytics-metrics/feature-adoption",
-            "analytics-metrics/user-feedback-nps"
+            {
+              "group": "KPIs by Product",
+              "pages": [
+                "analytics-metrics/kpis-by-product"
+              ]
+            },
+            {
+              "group": "Reporting Tools",
+              "pages": [
+                "analytics-metrics/reporting-tools"
+              ]
+            },
+            {
+              "group": "Feature Adoption",
+              "pages": [
+                "analytics-metrics/feature-adoption"
+              ]
+            },
+            {
+              "group": "User Feedback & NPS",
+              "pages": [
+                "analytics-metrics/user-feedback-nps"
+              ]
+            }
           ]
         },
         {
           "group": "Product Ops",
           "pages": [
-            "product-ops/process-improvement",
-            "product-ops/enablement-materials",
-            "product-ops/training-onboarding-guides",
-            "product-ops/templates-standard"
+            {
+              "group": "Process Improvement",
+              "pages": [
+                "product-ops/process-improvement"
+              ]
+            },
+            {
+              "group": "Enablement Materials",
+              "pages": [
+                "product-ops/enablement-materials"
+              ]
+            },
+            {
+              "group": "Training & Onboarding Guides",
+              "pages": [
+                "product-ops/training-onboarding-guides"
+              ]
+            },
+            {
+              "group": "Templates & Standards",
+              "pages": [
+                "product-ops/templates-standard"
+              ]
+            }
           ]
         }
       ]
