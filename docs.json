@@ -38,48 +38,6 @@
         ]
       },
       {
-        "tab": "Product Operating Model",
-        "groups": [
-          {
-            "group": "Quarterly Planning Process",
-            "pages": [
-              "product-operating-model/quarterly-planning-process"
-            ]
-          },
-          {
-            "group": "Backlog & Roadmap Management",
-            "pages": [
-              "product-operating-model/backlog-roadmap-management"
-            ]
-          },
-          {
-            "group": "Cross-Functional Team Setup",
-            "pages": [
-              "product-operating-model/cross-functional-team-setup"
-            ]
-          },
-          {
-            "group": "Meetings & Cadences",
-            "pages": [
-              "product-operating-model/meetings-cadences"
-            ]
-          },
-          {
-            "group": "Definition of Done",
-            "pages": [
-              "product-operating-model/definition-of-done"
-            ]
-          },
-          {
-            "group": "How We Use Tools",
-            "pages": [
-              "product-operating-model/how-we-use-tools"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Product Development Lifecycle",
         "groups": [
           {
             "group": "From Idea to Delivery",
