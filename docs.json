@@ -14,8 +14,9 @@
         "tab": "Product Organization",
         "groups": [
           {
-            "group": "Getting to know us",
+            "group": "",
             "pages": [
+              "product-organization/principles-philosophy",
               "product-organization/roles-responsibilities",
               "product-organization/how-to-work-with-product"
             ]
@@ -25,12 +26,6 @@
       {
         "tab": "Product Operating Model",
         "groups": [
-          {
-            "group": "Principles & Philosophy",
-            "pages": [
-              "product-operating-model/principles-philosophy"
-            ]
-          },
           {
             "group": "Quarterly Planning Process",
             "pages": [
