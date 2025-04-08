@@ -11,92 +11,251 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Product Organization",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Overview",
             "pages": [
-              "introduction",
-              "quickstart",
-              "development"
+              "product-organization/overview"
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Team Structure",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "product-organization/team-structure"
+            ]
+          },
+          {
+            "group": "Roles & Responsibilities",
+            "pages": [
+              "product-organization/roles-responsibilities"
+            ]
+          },
+          {
+            "group": "Contact Directory",
+            "pages": [
+              "product-organization/contact-directory"
+            ]
+          },
+          {
+            "group": "Career Paths",
+            "pages": [
+              "product-organization/career-paths"
+            ]
+          },
+          {
+            "group": "How to Work With Product",
+            "pages": [
+              "product-organization/how-to-work-with-product"
             ]
           }
         ]
       },
       {
-        "tab": "API Reference",
+        "tab": "Product Operating Model",
         "groups": [
           {
-            "group": "API Documentation",
+            "group": "Principles & Philosophy",
             "pages": [
-              "api-reference/introduction"
+              "product-operating-model/principles-philosophy"
             ]
           },
           {
-            "group": "Endpoint Examples",
+            "group": "Quarterly Planning Process",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "product-operating-model/quarterly-planning-process"
+            ]
+          },
+          {
+            "group": "Backlog & Roadmap Management",
+            "pages": [
+              "product-operating-model/backlog-roadmap-management"
+            ]
+          },
+          {
+            "group": "Cross-Functional Team Setup",
+            "pages": [
+              "product-operating-model/cross-functional-team-setup"
+            ]
+          },
+          {
+            "group": "Meetings & Cadences",
+            "pages": [
+              "product-operating-model/meetings-cadences"
+            ]
+          },
+          {
+            "group": "Definition of Done",
+            "pages": [
+              "product-operating-model/definition-of-done"
+            ]
+          },
+          {
+            "group": "How We Use Tools",
+            "pages": [
+              "product-operating-model/how-we-use-tools"
             ]
           }
         ]
-      }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
-  },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
-  },
-  "navbar": {
-    "links": [
+      },
       {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
-    }
-  },
-  "footer": {
-    "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
-    }
-  }
-}
+        "tab": "Product Development Lifecycle",
+        "groups": [
+          {
+            "group": "From Idea to Delivery",
+            "pages": [
+              "product-development-lifecycle/intake-discovery",
+              "product-development-lifecycle/requirements-documentation",
+              "product-development-lifecycle/design-prototyping",
+              "product-development-lifecycle/development-qa",
+              "product-development-lifecycle/uat-release"
+            ]
+          },
+          {
+            "group": "Launch Process & Go-to-Market",
+            "pages": [
+              "product-development-lifecycle/launch-process-go-to-market"
+            ]
+          },
+          {
+            "group": "Feedback Loops",
+            "pages": [
+              "product-development-lifecycle/feedback-loops"
+            ]
+          },
+          {
+            "group": "How We Handle Bugs & Incidents",
+            "pages": [
+              "product-development-lifecycle/bugs-incidents"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Product Portfolio",
+        "groups": [
+          {
+            "group": "Live Products & Services",
+            "pages": [
+              "product-portfolio/live-products-services"
+            ]
+          },
+          {
+            "group": "Roadmap",
+            "pages": [
+              "product-portfolio/roadmap"
+            ]
+          },
+          {
+            "group": "Recently Shipped",
+            "pages": [
+              "product-portfolio/recently-shipped"
+            ]
+          },
+          {
+            "group": "Experiments & Pilots",
+            "pages": [
+              "product-portfolio/experiments-pilots"
+            ]
+          },
+          {
+            "group": "Sunset & Deprecated Features",
+            "pages": [
+              "product-portfolio/sunset-deprecated-features"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "User Documentation",
+        "groups": [
+          {
+            "group": "Internal User Guides",
+            "pages": [
+              "user-documentation/internal-user-guides/customer-facing-teams",
+              "user-documentation/internal-user-guides/datacenter-operations",
+              "user-documentation/internal-user-guides/clients"
+            ]
+          },
+          {
+            "group": "Admin Tools",
+            "pages": [
+              "user-documentation/admin-tools"
+            ]
+          },
+          {
+            "group": "System Integrations",
+            "pages": [
+              "user-documentation/system-integrations"
+            ]
+          },
+          {
+            "group": "Configuration & Customization Options",
+            "pages": [
+              "user-documentation/configuration-customization-options"
+            ]
+          },
+          {
+            "group": "Known Limitations",
+            "pages": [
+              "user-documentation/known-limitations"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Analytics & Metrics",
+        "groups": [
+          {
+            "group": "KPIs by Product",
+            "pages": [
+              "analytics-metrics/kpis-by-product"
+            ]
+          },
+          {
+            "group": "Reporting Tools",
+            "pages": [
+              "analytics-metrics/reporting-tools"
+            ]
+          },
+          {
+            "group": "Feature Adoption",
+            "pages": [
+              "analytics-metrics/feature-adoption"
+            ]
+          },
+          {
+            "group": "User Feedback & NPS",
+            "pages": [
+              "analytics-metrics/user-feedback-nps"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Product Ops",
+        "groups": [
+          {
+            "group": "Process Improvement",
+            "pages": [
+              "product-ops/process-improvement"
+            ]
+          },
+          {
+            "group": "Enablement Materials",
+            "pages": [
+              "product-ops/enablement-materials"
+            ]
+          },
+          {
+            "group": "Training & Onboarding Guides",
+            "pages": [
+              "product-ops/training-onboarding-guides"
+            ]
+          },
+          {
+            "group": "Templates & Standards",
+            "pages": [
+              "product-ops/templates-standards"
+            ]
+ 
